@@ -1,0 +1,123 @@
+{
+  "employees": [
+    { "id": 1, "name": "John", "department": "IT", "salary": 5000, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 2, "name": "Amina", "department": "HR", "salary": 4500, "address": { "city": "Abuja", "country": "Nigeria" } },
+    { "id": 3, "name": "Chidi", "department": "Finance", "salary": 6000, "address": { "city": "Port Harcourt", "country": "Nigeria" } },
+    { "id": 4, "name": "Ngozi", "department": "IT", "salary": null, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 5, "name": "Tunde", "department": "HR", "salary": 4800, "address": { "city": "Ibadan", "country": "Nigeria" } },
+
+    { "id": 6, "name": "Emeka", "department": "IT", "salary": 5200, "address": { "city": "Enugu", "country": "Nigeria" } },
+    { "id": 7, "name": "Fatima", "department": "HR", "salary": null, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 8, "name": "Sola", "department": "Finance", "salary": 6100, "address": { "city": "Ibadan", "country": "Nigeria" } },
+    { "id": 9, "name": "Grace", "department": "IT", "salary": 5300, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 10, "name": "Ibrahim", "department": "Finance", "salary": null, "address": { "city": "Kaduna", "country": "Nigeria" } },
+
+    { "id": 11, "name": "Blessing", "department": "HR", "salary": 4600, "address": { "city": "Owerri", "country": "Nigeria" } },
+    { "id": 12, "name": "Uche", "department": "IT", "salary": 5500, "address": { "city": "Onitsha", "country": "Nigeria" } },
+    { "id": 13, "name": "Zainab", "department": "Finance", "salary": 6200, "address": { "city": "Abuja", "country": "Nigeria" } },
+    { "id": 14, "name": "Peter", "department": "HR", "salary": null, "address": { "city": "Jos", "country": "Nigeria" } },
+    { "id": 15, "name": "Hauwa", "department": "IT", "salary": 5100, "address": { "city": "Kano", "country": "Nigeria" } },
+
+    { "id": 16, "name": "Daniel", "department": "Finance", "salary": 6300, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 17, "name": "Mary", "department": "HR", "salary": 4700, "address": { "city": "Uyo", "country": "Nigeria" } },
+    { "id": 18, "name": "Ahmed", "department": "IT", "salary": null, "address": { "city": "Sokoto", "country": "Nigeria" } },
+    { "id": 19, "name": "Joy", "department": "Finance", "salary": 6400, "address": { "city": "Benin City", "country": "Nigeria" } },
+    { "id": 20, "name": "Bola", "department": "HR", "salary": 4900, "address": { "city": "Ibadan", "country": "Nigeria" } },
+
+    { "id": 21, "name": "Samuel", "department": "IT", "salary": 5600, "address": { "city": "Ilorin", "country": "Nigeria" } },
+    { "id": 22, "name": "Esther", "department": "Finance", "salary": null, "address": { "city": "Makurdi", "country": "Nigeria" } },
+    { "id": 23, "name": "Yakubu", "department": "HR", "salary": 4800, "address": { "city": "Katsina", "country": "Nigeria" } },
+    { "id": 24, "name": "Ruth", "department": "IT", "salary": 5700, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 25, "name": "Kabir", "department": "Finance", "salary": 6500, "address": { "city": "Abuja", "country": "Nigeria" } },
+
+    { "id": 26, "name": "Helen", "department": "HR", "salary": null, "address": { "city": "Warri", "country": "Nigeria" } },
+    { "id": 27, "name": "Chinwe", "department": "IT", "salary": 5400, "address": { "city": "Enugu", "country": "Nigeria" } },
+    { "id": 28, "name": "Musa", "department": "Finance", "salary": 6600, "address": { "city": "Kaduna", "country": "Nigeria" } },
+    { "id": 29, "name": "Ada", "department": "HR", "salary": 5000, "address": { "city": "Owerri", "country": "Nigeria" } },
+    { "id": 30, "name": "Victor", "department": "IT", "salary": null, "address": { "city": "Port Harcourt", "country": "Nigeria" } },
+
+    { "id": 31, "name": "Femi", "department": "Finance", "salary": 6700, "address": { "city": "Ibadan", "country": "Nigeria" } },
+    { "id": 32, "name": "Kemi", "department": "HR", "salary": 5100, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 33, "name": "Sadiq", "department": "IT", "salary": 5800, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 34, "name": "Ngo", "department": "Finance", "salary": null, "address": { "city": "Awka", "country": "Nigeria" } },
+    { "id": 35, "name": "Halima", "department": "HR", "salary": 5200, "address": { "city": "Abuja", "country": "Nigeria" } },
+
+    { "id": 36, "name": "Paul", "department": "IT", "salary": 5900, "address": { "city": "Jos", "country": "Nigeria" } },
+    { "id": 37, "name": "Janet", "department": "Finance", "salary": 6800, "address": { "city": "Benin City", "country": "Nigeria" } },
+    { "id": 38, "name": "Usman", "department": "HR", "salary": null, "address": { "city": "Katsina", "country": "Nigeria" } },
+    { "id": 39, "name": "Rose", "department": "IT", "salary": 6000, "address": { "city": "Uyo", "country": "Nigeria" } },
+    { "id": 40, "name": "Lawal", "department": "Finance", "salary": 6900, "address": { "city": "Ilorin", "country": "Nigeria" } },
+
+    { "id": 41, "name": "Mariam", "department": "HR", "salary": 5300, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 42, "name": "Eze", "department": "IT", "salary": null, "address": { "city": "Enugu", "country": "Nigeria" } },
+    { "id": 43, "name": "Tari", "department": "Finance", "salary": 7000, "address": { "city": "Port Harcourt", "country": "Nigeria" } },
+    { "id": 44, "name": "Segun", "department": "HR", "salary": 5400, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 45, "name": "Abba", "department": "IT", "salary": 6100, "address": { "city": "Kaduna", "country": "Nigeria" } },
+
+    { "id": 46, "name": "Faith", "department": "Finance", "salary": null, "address": { "city": "Abuja", "country": "Nigeria" } },
+    { "id": 47, "name": "Mike", "department": "HR", "salary": 5500, "address": { "city": "Jos", "country": "Nigeria" } },
+    { "id": 48, "name": "Nura", "department": "IT", "salary": 6200, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 49, "name": "Ifeoma", "department": "Finance", "salary": 7100, "address": { "city": "Owerri", "country": "Nigeria" } },
+    { "id": 50, "name": "Gbenga", "department": "HR", "salary": null, "address": { "city": "Ibadan", "country": "Nigeria" } },
+
+    { "id": 51, "name": "Chuks", "department": "IT", "salary": 6300, "address": { "city": "Onitsha", "country": "Nigeria" } },
+    { "id": 52, "name": "Ayo", "department": "Finance", "salary": 7200, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 53, "name": "Rabi", "department": "HR", "salary": 5600, "address": { "city": "Sokoto", "country": "Nigeria" } },
+    { "id": 54, "name": "Ola", "department": "IT", "salary": null, "address": { "city": "Ibadan", "country": "Nigeria" } },
+    { "id": 55, "name": "Bassey", "department": "Finance", "salary": 7300, "address": { "city": "Calabar", "country": "Nigeria" } },
+
+    { "id": 56, "name": "Ngozi", "department": "HR", "salary": 5700, "address": { "city": "Enugu", "country": "Nigeria" } },
+    { "id": 57, "name": "Yusuf", "department": "IT", "salary": 6400, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 58, "name": "Sade", "department": "Finance", "salary": null, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 59, "name": "Kunle", "department": "HR", "salary": 5800, "address": { "city": "Ibadan", "country": "Nigeria" } },
+    { "id": 60, "name": "Abdul", "department": "IT", "salary": 6500, "address": { "city": "Kaduna", "country": "Nigeria" } },
+
+    { "id": 61, "name": "Doris", "department": "Finance", "salary": 7400, "address": { "city": "Uyo", "country": "Nigeria" } },
+    { "id": 62, "name": "Aliyu", "department": "HR", "salary": null, "address": { "city": "Katsina", "country": "Nigeria" } },
+    { "id": 63, "name": "Chioma", "department": "IT", "salary": 6600, "address": { "city": "Owerri", "country": "Nigeria" } },
+    { "id": 64, "name": "Bello", "department": "Finance", "salary": 7500, "address": { "city": "Abuja", "country": "Nigeria" } },
+    { "id": 65, "name": "Nike", "department": "HR", "salary": 5900, "address": { "city": "Lagos", "country": "Nigeria" } },
+
+    { "id": 66, "name": "Sani", "department": "IT", "salary": null, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 67, "name": "Ekaette", "department": "Finance", "salary": 7600, "address": { "city": "Calabar", "country": "Nigeria" } },
+    { "id": 68, "name": "Frank", "department": "HR", "salary": 6000, "address": { "city": "Jos", "country": "Nigeria" } },
+    { "id": 69, "name": "Idris", "department": "IT", "salary": 6700, "address": { "city": "Kaduna", "country": "Nigeria" } },
+    { "id": 70, "name": "Ngozi", "department": "Finance", "salary": null, "address": { "city": "Enugu", "country": "Nigeria" } },
+
+    { "id": 71, "name": "Tosin", "department": "HR", "salary": 6100, "address": { "city": "Ibadan", "country": "Nigeria" } },
+    { "id": 72, "name": "Shehu", "department": "IT", "salary": 6800, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 73, "name": "Peace", "department": "Finance", "salary": 7700, "address": { "city": "Abuja", "country": "Nigeria" } },
+    { "id": 74, "name": "Segun", "department": "HR", "salary": null, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 75, "name": "Haruna", "department": "IT", "salary": 6900, "address": { "city": "Kaduna", "country": "Nigeria" } },
+
+    { "id": 76, "name": "Efe", "department": "Finance", "salary": 7800, "address": { "city": "Warri", "country": "Nigeria" } },
+    { "id": 77, "name": "Zainab", "department": "HR", "salary": 6200, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 78, "name": "Chinedu", "department": "IT", "salary": null, "address": { "city": "Onitsha", "country": "Nigeria" } },
+    { "id": 79, "name": "Aisha", "department": "Finance", "salary": 7900, "address": { "city": "Abuja", "country": "Nigeria" } },
+    { "id": 80, "name": "Biodun", "department": "HR", "salary": 6300, "address": { "city": "Ibadan", "country": "Nigeria" } },
+
+    { "id": 81, "name": "Sule", "department": "IT", "salary": 7000, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 82, "name": "Ngozi", "department": "Finance", "salary": null, "address": { "city": "Enugu", "country": "Nigeria" } },
+    { "id": 83, "name": "Funmi", "department": "HR", "salary": 6400, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 84, "name": "Ali", "department": "IT", "salary": 7100, "address": { "city": "Kaduna", "country": "Nigeria" } },
+    { "id": 85, "name": "Obi", "department": "Finance", "salary": 8000, "address": { "city": "Onitsha", "country": "Nigeria" } },
+
+    { "id": 86, "name": "Hassan", "department": "HR", "salary": null, "address": { "city": "Katsina", "country": "Nigeria" } },
+    { "id": 87, "name": "Adaeze", "department": "IT", "salary": 7200, "address": { "city": "Owerri", "country": "Nigeria" } },
+    { "id": 88, "name": "Bukar", "department": "Finance", "salary": 8100, "address": { "city": "Maiduguri", "country": "Nigeria" } },
+    { "id": 89, "name": "Lola", "department": "HR", "salary": 6500, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 90, "name": "Kabiru", "department": "IT", "salary": null, "address": { "city": "Kano", "country": "Nigeria" } },
+
+    { "id": 91, "name": "Eunice", "department": "Finance", "salary": 8200, "address": { "city": "Abuja", "country": "Nigeria" } },
+    { "id": 92, "name": "Ishaq", "department": "HR", "salary": 6600, "address": { "city": "Kaduna", "country": "Nigeria" } },
+    { "id": 93, "name": "Chika", "department": "IT", "salary": 7300, "address": { "city": "Enugu", "country": "Nigeria" } },
+    { "id": 94, "name": "Musa", "department": "Finance", "salary": null, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 95, "name": "Remi", "department": "HR", "salary": 6700, "address": { "city": "Ibadan", "country": "Nigeria" } },
+
+    { "id": 96, "name": "Sadiya", "department": "IT", "salary": 7400, "address": { "city": "Abuja", "country": "Nigeria" } },
+    { "id": 97, "name": "Tony", "department": "Finance", "salary": 8300, "address": { "city": "Lagos", "country": "Nigeria" } },
+    { "id": 98, "name": "Rashid", "department": "HR", "salary": null, "address": { "city": "Kano", "country": "Nigeria" } },
+    { "id": 99, "name": "Kelechi", "department": "IT", "salary": 7500, "address": { "city": "Owerri", "country": "Nigeria" } },
+    { "id": 100, "name": "Adewale", "department": "Finance", "salary": 8400, "address": { "city": "Ibadan", "country": "Nigeria" } }
+  ]
+}
